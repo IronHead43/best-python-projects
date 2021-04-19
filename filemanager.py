@@ -1,3 +1,5 @@
+#One of my very first python projects
+#Made some time in late 2020
 import sys
 print ("File Manager by Samuel Miller 25/01/2021\n")
 print ("type help for a list commands and info")
