@@ -1,5 +1,5 @@
 #access minecraft realms from the unoffical xbox api
-#one of my first python projects
+#a pretty early project, my first API project that I made public
 #made December 2020
 import requests
 from datetime import date
